@@ -1,0 +1,19 @@
+{
+    "inventory": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2021",
+        "msrp": 24000,
+        "date": "2023-12-01"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": "2022",
+        "msrp": 22000,
+        "date": "2023-11-15"
+      }
+    ]
+  }
+  
